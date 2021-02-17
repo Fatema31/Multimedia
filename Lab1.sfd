@@ -1,0 +1,255 @@
+SplineFontDB: 3.2
+FontName: Untitled1
+FullName: Untitled1
+FamilyName: Untitled1
+Weight: Regular
+Copyright: Copyright (c) 2021, Sadia
+UComments: "2021-2-17: Created with FontForge (http://fontforge.org)"
+Version: 001.000
+ItalicAngle: 0
+UnderlinePosition: -100
+UnderlineWidth: 50
+Ascent: 800
+Descent: 200
+InvalidEm: 0
+LayerCount: 2
+Layer: 0 0 "Back" 1
+Layer: 1 0 "Fore" 0
+XUID: [1021 936 -794854024 25568]
+OS2Version: 0
+OS2_WeightWidthSlopeOnly: 0
+OS2_UseTypoMetrics: 1
+CreationTime: 1613583216
+ModificationTime: 1613586163
+OS2TypoAscent: 0
+OS2TypoAOffset: 1
+OS2TypoDescent: 0
+OS2TypoDOffset: 1
+OS2TypoLinegap: 0
+OS2WinAscent: 0
+OS2WinAOffset: 1
+OS2WinDescent: 0
+OS2WinDOffset: 1
+HheadAscent: 0
+HheadAOffset: 1
+HheadDescent: 0
+HheadDOffset: 1
+OS2Vendor: 'PfEd'
+DEI: 91125
+Encoding: UnicodeBmp
+UnicodeInterp: none
+NameList: AGL For New Fonts
+DisplaySize: -48
+AntiAlias: 1
+FitToEm: 0
+WinInfo: 2052 38 12
+BeginChars: 65536 2
+
+StartChar: uni0985
+Encoding: 2437 2437 0
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+-926 114 m 1053
+884 720 m 25
+ 884 652 l 25
+ 884 548 l 25
+ 884 448 l 25
+ 880 352 l 25
+ 884 220 l 25
+ 876 132 l 25
+ 876 56 l 25
+ 688 216 l 25
+ 704 292 l 25
+ 740 276 l 25
+ 780 220 l 25
+ 808 204 l 25
+ 800 720 l 25
+ 802 742 l 25
+ 816 734 l 25
+ 856 732 l 25
+ 878 736 l 25
+ 892 746 l 25
+ 884 720 l 25
+484 572 m 25
+ 512 580 l 25
+ 588 580 l 25
+ 632 524 l 25
+ 680 460 l 25
+ 716 352 l 25
+ 700 224 l 25
+ 648 96 l 25
+ 584 28 l 25
+ 460 36 l 25
+ 292 120 l 25
+ 192 248 l 25
+ 112 372 l 25
+ 60 520 l 25
+ 84 612 l 25
+ 136 580 l 25
+ 164 500 l 25
+ 212 384 l 25
+ 248 284 l 25
+ 328 188 l 25
+ 432 152 l 25
+ 496 116 l 25
+ 568 140 l 25
+ 616 256 l 25
+ 608 380 l 25
+ 564 496 l 25
+ 532 416 l 25
+ 460 420 l 25
+ 392 508 l 25
+ 484 572 l 25
+0 800 m 25
+ 108 796 l 25
+ 220 800 l 25
+ 288 796 l 25
+ 344 796 l 25
+ 396 804 l 25
+ 432 804 l 25
+ 472 800 l 25
+ 520 800 l 25
+ 572 800 l 25
+ 616 800 l 25
+ 660 800 l 25
+ 684 800 l 25
+ 720 804 l 25
+ 764 804 l 25
+ 816 796 l 25
+ 880 804 l 25
+ 936 796 l 25
+ 980 796 l 25
+ 940 724 l 25
+ 892 724 l 25
+ 848 724 l 25
+ 772 728 l 25
+ 684 728 l 25
+ 628 724 l 25
+ 564 724 l 25
+ 476 724 l 25
+ 384 728 l 25
+ 284 720 l 25
+ 192 728 l 25
+ 120 724 l 25
+ 0 800 l 25
+EndSplineSet
+EndChar
+
+StartChar: uni0995
+Encoding: 2453 2453 1
+Width: 1000
+Flags: H
+LayerCount: 2
+Fore
+SplineSet
+714 754 m 9
+ 790 712 l 25
+ 830 690 l 25
+ 884 654 l 25
+ 930 596 l 25
+ 972 538 l 25
+ 978 452 l 25
+ 972 396 l 25
+ 968 336 l 25
+ 940 284 l 25
+ 888 254 l 25
+ 792 302 l 25
+ 762 352 l 25
+ 762 410 l 25
+ 788 428 l 25
+ 830 442 l 25
+ 856 400 l 25
+ 878 394 l 25
+ 894 412 l 25
+ 890 474 l 25
+ 822 542 l 25
+ 764 590 l 25
+ 742 646 l 17
+ 664 694 l 5
+ 714 754 l 9
+618 530 m 25
+ 520 466 l 25
+ 428 406 l 25
+ 344 352 l 25
+ 286 306 l 25
+ 372 294 l 25
+ 446 274 l 25
+ 524 234 l 25
+ 564 220 l 25
+ 608 192 l 25
+ 610 302 l 25
+ 606 396 l 25
+ 614 466 l 25
+ 618 530 l 25
+716 754 m 25
+ 716 710 l 25
+ 716 670 l 25
+ 716 590 l 25
+ 720 512 l 25
+ 720 428 l 25
+ 718 332 l 25
+ 720 288 l 25
+ 724 216 l 25
+ 724 170 l 25
+ 724 108 l 25
+ 726 48 l 25
+ 724 12 l 25
+ 636 62 l 25
+ 584 86 l 25
+ 492 126 l 25
+ 402 158 l 25
+ 312 170 l 25
+ 222 198 l 25
+ 152 214 l 25
+ 86 222 l 25
+ 28 220 l 25
+ 0 228 l 25
+ 112 302 l 25
+ 194 360 l 25
+ 230 382 l 25
+ 266 414 l 25
+ 314 446 l 25
+ 374 492 l 25
+ 442 538 l 25
+ 510 586 l 25
+ 572 626 l 25
+ 622 666 l 25
+ 664 700 l 25
+ 716 754 l 25
+0 804 m 25
+ 60 804 l 25
+ 108 804 l 25
+ 188 796 l 25
+ 240 796 l 25
+ 300 796 l 25
+ 348 796 l 25
+ 412 796 l 25
+ 476 804 l 25
+ 536 804 l 25
+ 616 804 l 25
+ 696 804 l 25
+ 748 804 l 25
+ 792 804 l 25
+ 848 800 l 25
+ 880 804 l 25
+ 948 800 l 25
+ 1000 800 l 25
+ 916 736 l 25
+ 844 732 l 25
+ 760 740 l 25
+ 656 732 l 25
+ 592 736 l 25
+ 492 736 l 25
+ 420 736 l 25
+ 320 732 l 25
+ 252 728 l 25
+ 156 736 l 25
+ 100 732 l 25
+ 0 804 l 25
+EndSplineSet
+EndChar
+EndChars
+EndSplineFont
